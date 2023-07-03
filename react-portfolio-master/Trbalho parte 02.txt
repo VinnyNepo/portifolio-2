@@ -1,0 +1,22 @@
+procurei por um portifolio com framework react no github. baixei o arquivo pelo git bash e o arquivo winrar. criei
+uma pagina e extrair o Winrar. no prompt de comando usei os comando "cd diretorio", "npm install", npm start".
+modifiquei o arquivo adicionado uma Api
+
+Frameworks:
+Frameworks é um conjunto de bibliotecas, ferramentas e convenções que fornecem uma estrutura para o desenvolvimento de 
+software. Eles são projetados para facilitar a criação de aplicativos, fornecendo uma base sólida e 
+predefinida sobre a qual os desenvolvedores podem criar seus aplicativos. 
+
+Requisição de API:
+as Requisições de API é uma solicitação feita por um software a outro software para acessar sua funcionalidade. 
+Simplificando, é uma maneira de um aplicativo se comunicar com outro. Uma solicitação de API é normalmente uma 
+solicitação enviada por meio de chamadas HTTP para o servidor que hospeda a API.
+
+HTTP:
+HTTP (Hypertext Transfer Protocol) é um protocolo de comunicação para transferência de dados pela Internet. 
+É a base para a comunicação entre um cliente (como um navegador da Web) e um servidor. 
+
+Aplicação da Web:
+Uma aplicação Web são software acessados e executado por meio de um navegador da Web. Ao contrário dos 
+aplicativos tradicionais que são instalados diretamente no dispositivo, os aplicativos da Web são hospedados 
+em servidores e acessados ​​por meio de uma conexão com a Internet.
