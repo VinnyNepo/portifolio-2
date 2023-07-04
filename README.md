@@ -1,5 +1,8 @@
 ### Description
 
+A simple portfolio template for developer/designers built with React. 
+
+
 
 ### Features
 
@@ -12,6 +15,8 @@
 ### Setup
 
 Get the code
+
+<pre>git clone https://github.com/VinnyNepo/portifolio-2.git</pre>
  
 Install required dependencies
 
